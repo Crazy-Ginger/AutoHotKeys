@@ -1,5 +1,5 @@
 ﻿Pause::
-Run, "vlc"
+Run, "foobar2000"
 Return
 
 #NoTrayIcon
